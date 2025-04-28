@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richardswitzer
-- 👀 I’m interested in building good products, educational and economic equity
-- 🌱 I’m currently learning economics
+- 👀 I’m interested in building good products and promoting economic equity
+- 🌱 I’m currently vibe coding until that's not cool anymore
 - 💞️ I’m looking to collaborate on interesting open-source projects that support more equitable outcomes
 - 📫 How to reach me richardswitzer at the Google email service I'm sure you are familar with
 
